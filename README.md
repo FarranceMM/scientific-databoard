@@ -18,11 +18,15 @@ Conducted data cleansing and pre-processing, which improve data quality by 70%.
 
 ### Skills
 Programming: Python(Pandas, Numpy), R, SQL
+
 Data Visualization: Seaborn, Matplotlib, ggplot2
+
 Database: MySQL
 
 ### Other 
 Certification: 
 ALISON Advanced Python Certification(2023)
+
 ALISON Advanced R Certification(2023)
+
 ALISON SQL For Biginners(2023)
