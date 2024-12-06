@@ -1,7 +1,7 @@
 # Data Scientist 
 
 ### Education
-##ALISON COLLEGE
+ALISON COLLEGE
 Coursework: Advanced Statistics, Data Visualization, Data Mining
 
 ### Experience
