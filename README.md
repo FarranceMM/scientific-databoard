@@ -16,6 +16,9 @@ project turn-around time by 30%
 
 Conducted data cleansing and pre-processing, which improve data quality by 70%.
 
+### Projects
+Developed sales prediction using Python: Python Sales Project .ipynb
+
 ### Skills
 Programming: Python(Pandas, Numpy), R, SQL
 
