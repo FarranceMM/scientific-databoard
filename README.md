@@ -19,6 +19,8 @@ Conducted data cleansing and pre-processing, which improve data quality by 70%.
 ### Projects
 Developed sales prediction using Python: [click me to download](https://github.com/FarranceMM/scientific-databoard/blob/main/Python%20Sales%20Project%20.ipynb)
 
+Developed social media usage by each country using R: [click me to download](https://github.com/FarranceMM/scientific-databoard/blob/main/R%20Project%20Social%20Media%20Usage.R)
+
 ### Skills
 Programming: Python(Pandas, Numpy), R, SQL
 
