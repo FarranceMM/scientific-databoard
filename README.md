@@ -1,9 +1,10 @@
-# Data Scientist 
+# Data Scientist
+Summary
 
-### Education
-ALISON COLLEGE
-
-Coursework: Advanced Statistics, Data Visualization, Data Mining
+As a Data Enthusiasist, i enjoy transforming unstructured data into meaningful insights through visual 
+representation. From a young age, i found joy investigating mathematical concepts and solving numerical 
+issues.in future, i hope to deepen my understanding of machine learning, which is a crucial aspect of 
+modern data science.
 
 ### Experience
 Projects: Predictive Modelling Project-Used Python to make sales predictions based on historical data
@@ -28,10 +29,14 @@ Data Visualization: Seaborn, Matplotlib, ggplot2
 
 Database: MySQL
 
-### Other 
-Certification: 
+### Certification
+ALISON COLLEGE:
+
 ALISON Advanced Python Certification(2023)
 
 ALISON Advanced R Certification(2023)
 
 ALISON SQL For Biginners(2023)
+
+
+
