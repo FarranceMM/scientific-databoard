@@ -1,5 +1,5 @@
 # Data Scientist
-Summary
+### Summary
 
 As a Data Enthusiasist, i enjoy transforming unstructured data into meaningful insights through visual 
 representation. From a young age, i found joy investigating mathematical concepts and solving numerical 
