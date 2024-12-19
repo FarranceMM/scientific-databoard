@@ -1,10 +1,10 @@
 # Data Scientist
 ### Summary
 
-As a Data Enthusiasist, i enjoy transforming unstructured data into meaningful insights through visual 
-representation. From a young age, i found joy investigating mathematical concepts and solving numerical 
-issues.in future, i hope to deepen my understanding of machine learning, which is a crucial aspect of 
-modern data science.
+As a Data Enthusiasist, i take pleasure in using visual representation to turn unstructured data into insightful 
+understandings. From a young age, i have always enjoyed solving numerical puzzles and learning about mathematical 
+concepts. in future, i hope to deepen my understanding of machine learning, which is a crucial aspect of modern 
+data science.
 
 ### Experience
 Projects: Predictive Modelling Project-Used Python to make sales predictions based on historical data
